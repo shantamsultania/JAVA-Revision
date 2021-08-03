@@ -19,7 +19,8 @@ Topic : List
 
 please go through the link below to understand/ revise what is List.
 
-Link : [Java List - javatpoint]("https://www.javatpoint.com/java-list")
+Link : 
+[List](https://www.javatpoint.com/java-list)
 
 ## Daily Tasks 1 
 
@@ -78,7 +79,7 @@ please go through the link below to understand/ revise what is MAP.
 
 Link : 
 
-[Java - The Map Interface]("https://www.javatpoint.com/java-hashmap")
+[Java - The Map Interface](https://www.javatpoint.com/java-hashmap)
 
 ### Daily Tasks
 
