@@ -10,6 +10,24 @@ This Repository consist of :
 3. Resources to study 
 4. Solutions to the Problems Day-wise for reference 
 
+Week 1 : 
+
+Java Bascis Revision 
+
+Week 2 : 
+
+Java Spring boot intorduction 
+
+Week 3 : 
+
+Java Spring boot Application development 
+
+Week 4 : 
+
+JAva Spring boot Application Deployment 
+in this week we will be deploying one application online. 
+
+
 
 # Day 1 
 
