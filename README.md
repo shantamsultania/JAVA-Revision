@@ -8,7 +8,6 @@ This Repository consist of :
 1. Daily as well as weekly Tasks.
 2. Topics to be coved on daily bases 
 3. Resources to study 
-4. Solutions to the Problems Day-wise for reference 
 
 Week 1 : 
 
@@ -133,16 +132,35 @@ l = 3 , o = 2
 
 Hi, This is your topic for the day
 
+## Topic 
+  
 Today we will be revising the concept of OOP's (Object Oriented programming) which happens to be one of the most important concepts for a JAVA developer.
 
 please go through the link below to understand/ revise what are OOPS. 
 
-Introduction of Object Oriented Programming - GeeksforGeeks
+Link [Introduction of Object-Oriented Programming - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-of-object-oriented-programming/)
 
-after having a complete understanding of what is oops lets go to daily task 3 to practice hands on the concept of oops. 
-in this task we will take care of some of the oops conectps. 
+after having a complete understanding of what is oops let's go to daily task 3 to practice hands-on the concept of oops. 
+in this task, we will take care of some of the oops concepts. 
 
-Please find the Question 
+### Daily Tasks 
+  
+### Question 1 
+
+Topic : Inheritance / Overriding 	
+
+ Create a base class Fruit which has name ,taste and size as its attributes. A method called eat() is created which describes the name of the fruit and its taste. Inherit the same in 2 other class Apple and Orange and override the eat() method to represent each fruit taste.
+
+### Question 2 
+
+Topic: Exception Handling: Try-catch Use multiple catch block 	
+
+
+Write a program that takes as input the size of the array and the elements in the array. The program then asks the user to enter a particular index and prints the element at that index. Index starts from zero.
+This program may generate Array Index Out Of Bounds Exception or NumberFormatException . Use exception handling mechanisms to handle this exception.
+Sample Input and Output 1: Enter the number of elements in the array 2 Enter the elements in the array 50 80 Enter the index of the array element you want to access 1 The array element at index 1 = 80 The array element successfully accessed
+Sample Input and Output 2: Enter the number of elements in the array 2 Enter the elements in the array 50 80 Enter the index of the array element you want to access 9 java.lang.ArrayIndexOutOfBoundsException
+Sample Input and Output 3: Enter the number of elements in the array 2 Enter the elements in the array 30 j java.lang.NumberFormatException
 
   <---------------------------------------------------------------------------------------------------------------->
 
