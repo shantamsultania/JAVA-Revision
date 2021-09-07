@@ -16,11 +16,12 @@ Question for Practice :
 
 1. Questions 
 
-https://docs.google.com/document/d/1vttp96FAAgkfVEYQXSuLHxjPnE5PDmWYlEcFRadi250/edit?usp=sharing
+https://docs.google.com/document/d/1QpzEPfYygFZeojFQoKl9jSFzk1vE5VyK2Ja4XBtlDmM/edit?usp=sharing
 
 2. Questions for Self Practice 
 
-https://docs.google.com/document/d/1QpzEPfYygFZeojFQoKl9jSFzk1vE5VyK2Ja4XBtlDmM/edit?usp=sharing
+https://docs.google.com/document/d/1vttp96FAAgkfVEYQXSuLHxjPnE5PDmWYlEcFRadi250/edit?usp=sharing
+
 
 
 # Day 1 
