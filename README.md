@@ -23,32 +23,14 @@ https://docs.google.com/document/d/1QpzEPfYygFZeojFQoKl9jSFzk1vE5VyK2Ja4XBtlDmM/
 https://docs.google.com/document/d/1vttp96FAAgkfVEYQXSuLHxjPnE5PDmWYlEcFRadi250/edit?usp=sharing
 
 
+# Spring boot topics covered 
 
-# Day 1 
+0. How to make a Spring boot Connection 
 
-What is Java Program 
+1. How to make a Rest API using spring boot 
 
-Benefits of Java 
+2. How to connect to MySQL Database 
 
-Class 
-
-Object 
-
-State 
-
-Behavior 
-
-Identifiers 
-
-Keywords
-
-Access Specifiers / Modifiers 
-
-Constructors
-
-Methods 
-
-Loops 
-
+3. How to make a TODO app
 
 
