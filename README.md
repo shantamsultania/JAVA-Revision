@@ -25,12 +25,12 @@ https://docs.google.com/document/d/1vttp96FAAgkfVEYQXSuLHxjPnE5PDmWYlEcFRadi250/
 
 # Spring boot topics covered 
 
-0. How to make a Spring boot Connection 
+0. How to make a Spring boot Connection (Done )
 
-1. How to make a Rest API using spring boot 
+1. How to make a Rest API using spring boot (Done )
 
-2. How to connect to MySQL Database 
+2. How to connect to MySQL Database  ()
 
-3. How to make a TODO app
+3. How to make a TODO app ()
 
 
